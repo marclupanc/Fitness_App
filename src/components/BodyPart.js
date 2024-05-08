@@ -3,7 +3,7 @@ import { Stack, Typography } from "@mui/material";
 import Icon from "../assets/icons/gym.png";
 
 const BodyPart = ({ item, setBodyPart, bodyPart }) => {
-  console.log("testing telegram6");
+  console.log("testing telegram7");
   return (
     <Stack
       type="button"
